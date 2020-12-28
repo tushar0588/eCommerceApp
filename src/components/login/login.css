@@ -1,0 +1,42 @@
+.formTable{
+    border-style: groove !important;
+    width: 30%;
+    margin: auto;
+    padding-left : 2%;
+    padding-right : 2%;
+    margin-top:3%
+}
+
+#h1 {
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 1.5;
+    text-align:left;
+}
+
+.button {
+    display:block;
+    width: 100%;
+    background-color : orangered !important;
+    color: black !important
+}
+
+.amazonBlock{
+    margin-top :2%
+}
+
+#h4 {
+    font-family: "Amazon Ember";
+    line-height : 1;
+    font-size : 12px;
+    color: #767676;
+    font-weight: 400;
+}
+
+.createAmazonAccount{
+    display:block;
+    width: 30%;
+    color: black !important;
+    background-color :silver !important;
+    border : 1px solid grey !important
+}
